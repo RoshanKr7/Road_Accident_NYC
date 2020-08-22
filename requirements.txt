@@ -97,9 +97,6 @@ pyr==0.4
 pyrsistent==0.15.4
 python-dateutil==2.8.0
 python-dotenv==0.14.0
-pytz==2019.2
-pywin32==225
-pywin32-ctypes==0.2.0
 pywinpty==0.5.5
 pyzmq==18.1.0
 qtconsole==4.5.5
