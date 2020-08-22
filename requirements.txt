@@ -5,10 +5,8 @@ altgraph==0.17
 astor==0.8.1
 astunparse==1.6.3
 attrs==19.1.0
-awesome-streamlit-master==20200130.3
 backcall==0.1.0
 base58==2.0.1
-beautifulsoup4==4.8.2
 bleach==3.1.0
 blinker==1.4
 boto3==1.14.47
@@ -136,7 +134,6 @@ toolz==0.10.0
 tornado==6.0.3
 traitlets==4.3.2
 tzlocal==2.1
-ui-to-py==1.2
 uritemplate==3.0.1
 urllib3==1.25.8
 validators==0.18.0
