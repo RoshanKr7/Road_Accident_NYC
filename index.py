@@ -9,7 +9,7 @@ DATA_URL = (
 )
 
 st.title("Motor Vechicle Collisions in New York City")
-st.markdown("This application is s Streamlit Dashboard that can be used "
+st.markdown("This application is Streamlit Dashboard that can be used "
             "to analyse motor vehicle collision in New York City 💥🚗💥")
 
 
