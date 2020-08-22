@@ -78,7 +78,6 @@ parso==0.5.1
 pathtools==0.1.2
 pefile==2019.4.18
 pickleshare==0.7.5
-Pillow==7.2.0
 plotly==4.9.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
@@ -94,16 +93,11 @@ Pygments==2.4.2
 pyinstaller @ https://github.com/pyinstaller/pyinstaller/archive/develop.zip
 pyinstaller-hooks-contrib==2020.6
 pyparsing==2.4.6
-PyQt5==5.13.0
-PyQt5-sip==12.8.0
-PyQt5-stubs==5.14.2.2
-pyqt5-tools==5.13.0.1.5
 pyr==0.4
 pyrsistent==0.15.4
 python-dateutil==2.8.0
 python-dotenv==0.14.0
 pytz==2019.2
-pyuic5-tool==0.0.1
 pywin32==225
 pywin32-ctypes==0.2.0
 pywinpty==0.5.5
@@ -121,10 +115,6 @@ soupsieve==2.0
 streamlit==0.65.2
 streamlit-ace==0.0.1
 tabulate==0.8.7
-tensorboard==2.2.1
-tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0
-tensorflow-estimator==2.2.0
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
@@ -143,5 +133,4 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
-youtube-dl==2020.7.28
 zipp==3.1.0
